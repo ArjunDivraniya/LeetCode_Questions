@@ -1,2 +1,7 @@
 # Write your MySQL query statement below
-SELECT u.unique_id ,s.name FROM Employees s LEFT JOIN EmployeeUNI u ON s.id=u.id;
+SELECT 
+    COALESCE(u.unique_id, NULL) AS unique_id,  -- ensures NULL is explicit
+    e.name
+FROM Employees AS e
+LEFT JOIN EmployeeUNI AS u
+    ON e.id = u.id;
