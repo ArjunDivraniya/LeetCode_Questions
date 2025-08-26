@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0328-odd-even-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
