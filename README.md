@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
