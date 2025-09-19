@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
