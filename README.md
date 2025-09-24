@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0050-powx-n) |
+| [1585-the-kth-factor-of-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2481-strictly-palindromic-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
