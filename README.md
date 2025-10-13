@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search Tree
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Math
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
