@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0050-powx-n) |
 | [1585-the-kth-factor-of-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
+| [2238-a-number-after-a-double-reversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
