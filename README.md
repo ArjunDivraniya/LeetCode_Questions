@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0050-powx-n) |
 | [1585-the-kth-factor-of-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2238-a-number-after-a-double-reversal) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
