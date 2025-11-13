@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
 ## Number Theory
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
