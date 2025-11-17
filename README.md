@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
