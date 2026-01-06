@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0978-valid-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
+| [2942-find-words-containing-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
 ## Linked List
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0541-reverse-string-ii) |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
+| [2942-find-words-containing-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
 |  |
