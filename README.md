@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0978-valid-mountain-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0978-valid-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
 ## Linked List
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String
 |  |
 | ------- |
