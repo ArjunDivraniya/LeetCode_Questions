@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0978-valid-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## String
 |  |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
