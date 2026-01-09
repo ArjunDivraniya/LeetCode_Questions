@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Tree
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0443-string-compression) |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
