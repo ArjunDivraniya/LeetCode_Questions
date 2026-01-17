@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0978-valid-mountain-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
