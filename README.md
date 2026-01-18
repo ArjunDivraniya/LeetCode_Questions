@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0050-powx-n) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1585-the-kth-factor-of-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2481-strictly-palindromic-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -239,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1672-richest-customer-wealth) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
