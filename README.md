@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
