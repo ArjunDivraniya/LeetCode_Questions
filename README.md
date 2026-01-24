@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0978-valid-mountain-array) |
+| [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1672-richest-customer-wealth](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1672-richest-customer-wealth) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
+| [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0238-product-of-array-except-self) |
+| [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
