@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0541-reverse-string-ii) |
+| [1678-goal-parser-interpretation](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1678-goal-parser-interpretation) |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2942-find-words-containing-character) |
 | [3163-string-compression-iii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/3163-string-compression-iii) |
