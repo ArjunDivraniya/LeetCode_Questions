@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0978-valid-mountain-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0978-valid-mountain-array) |
 | [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
