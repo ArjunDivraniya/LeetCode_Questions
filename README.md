@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0845-longest-mountain-in-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0845-longest-mountain-in-array/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0506-relative-ranks/) | Easy |
 | [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0845-longest-mountain-in-array/) | Medium |
 <!---LeetCode Topics End-->
