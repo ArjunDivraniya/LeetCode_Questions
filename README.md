@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0821-shortest-distance-to-a-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1678-goal-parser-interpretation) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
