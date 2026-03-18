@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0845-longest-mountain-in-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 <!---LeetCode Topics End-->
