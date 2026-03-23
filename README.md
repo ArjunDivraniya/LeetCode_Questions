@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0506-relative-ranks/) | Easy |
+| [0739-daily-temperatures](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0739-daily-temperatures/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
