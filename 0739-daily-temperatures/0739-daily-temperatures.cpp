@@ -5,12 +5,11 @@ public:
 
         vector<int> ans(n,0);
         stack<int> s;
-        for(int i =0 ;i<n;i++){
-            while(!s.empty() && temperatures[s.top()] < temperatures[i]){
-                int indx = s.top();
+        for(int i =n-1;i>=0 ;i--){
+            while(!s.empty() && temperatures[s.top()] <=temperatures[i]){
                 s.pop();
-                ans[indx] = i - indx;
             }
+          ans[i] = (!s.empty()) ? s.top() -i : 0;
             s.push(i);
         }
         return ans;
