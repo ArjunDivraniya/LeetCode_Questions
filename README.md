@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1961-maximum-ice-cream-bars](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1961-maximum-ice-cream-bars) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
