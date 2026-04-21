@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
+| [0859-buddy-strings](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0859-buddy-strings/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0859-buddy-strings](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0859-buddy-strings/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1678-goal-parser-interpretation) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2727-number-of-senior-citizens](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2727-number-of-senior-citizens) |
