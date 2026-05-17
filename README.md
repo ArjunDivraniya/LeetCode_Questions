@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1585-the-kth-factor-of-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0258-add-digits/) | Easy |
 | [1585-the-kth-factor-of-n](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/main/0258-add-digits/) | Easy |
 | [1094-car-pooling](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ArjunDivraniya/LeetCode_Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
